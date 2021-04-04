@@ -20,3 +20,11 @@
   border: 5px dashed pink;
   margin: 38px;
 }
+
+.box4 {
+  width: 30px;
+  height: 30px;
+  background-color: purple;
+  border: 5px dotted turquoise;
+  margin: 55px;
+}
