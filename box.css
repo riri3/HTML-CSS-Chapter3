@@ -17,14 +17,14 @@
   width: 10px;
   height: 20px;
   background-color: violet;
-  border: 5px dashed pink;
+  border: 5px dashed rgb(126, 10, 30);
   margin: 38px;
 }
 
 .box4 {
   width: 30px;
   height: 30px;
-  background-color: purple;
+  background-color: rgb(241, 7, 241);
   border: 5px dotted turquoise;
   margin: 55px;
 }
